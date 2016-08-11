@@ -8,5 +8,6 @@ package com.laughing.card.controller;
  */
 public class IndexController {
 
-// ²âÊÔÊ¹ÓÃ
+// æµ‹è¯•ä½¿ç”¨
+// ä½ å¥½å•Š
 }
