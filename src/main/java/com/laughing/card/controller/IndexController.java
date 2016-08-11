@@ -8,4 +8,5 @@ package com.laughing.card.controller;
  */
 public class IndexController {
 
+// ≤‚ ‘ π”√
 }
