@@ -9,9 +9,7 @@ package com.laughing.card.controller;
 public class IndexController {
 
 // 测试使用
-<<<<<<< HEAD
-// henhaoyonng
-=======
+
 // 你好啊
->>>>>>> dev
+
 }
